@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+<title></title>
+</head>
+<body>
+	<!-- Footer -->
+	<footer class="footer page-footer font-small blue clearfix">
+
+		<!-- Copyright -->
+		<div class="footer-copyright text-center py-3">
+			Copyright &copy; Brain Vision Support 2022
+		</div>
+
+	</footer>
+	<!-- Footer -->
+</body>
+</html>
